@@ -1,0 +1,13 @@
+USER NAME: Mackenzie | User Weight: 48.0 | Users Coin Type: 200 | Amount user was off by in weight: 1952.0 
+ 
+ USER NAME: mackenziew | User Weight: 48.0 | Users Coin Type: 200 | Amount user was off by in weight: 1952.0 
+ 
+ USER NAME: Hello | User Weight: 48.0 | Users Coin Type: 200 | Amount user was off by in weight: 1952.0 
+ 
+ USER NAME: Makcneze | User Weight: 48.0 | Users Coin Type: 200 | Amount user was off by in weight: 1952.0  
+ USER NAME: ma | User Weight: 36.0 | Users Coin Type: 200 | Amount user was off by in weight: 1964.0  
+ USER NAME: Mack | User Weight: 36.0 | Users Coin Type: 200 | Amount user was off by in weight: 1964.0  
+ User Name: Mack | User Weight: 24.0 | Users Coin Type: 200 | Amount user was off by in weight: 96.0  
+ User Name: Mack | User Weight: 48.0 | Users Coin Type: 200 | Amount user was off by in weight: 72.0  
+ User Name: Mackenzie | User Weight: 3.0 | Users Coin Type: 200 | Amount user was off by in weight: 117.0  
+ 
