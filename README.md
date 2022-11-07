@@ -1,3 +1,2 @@
 # coincount
-lennon
-my coincount for college. Pls like ans sub :P
+This is my college assignment about a coin count.
